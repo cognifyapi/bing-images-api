@@ -30,7 +30,7 @@ A high-performance Bing Images API.
 
 Base URL: `https://api.cognifyapi.com`
 
-Send your API key in the `x-cognifyapi-key` header. Install Axios with `npm install axios`, set `COGNIFY_API_KEY`, then run [`bing-images-api.js`](./bing-images-api.js).
+Send your API key in the `x-cognifyapi-key` header. Install Axios with `npm install axios`, set `COGNIFY_API_KEY`, then run [`index.js`](./index.js).
 
 ```text
 x-cognifyapi-key: YOUR_COGNIFY_API_KEY
