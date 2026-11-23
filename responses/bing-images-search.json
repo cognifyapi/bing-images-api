@@ -1,0 +1,14 @@
+{
+  "status": "success",
+  "query": "microsoft",
+  "results": 1,
+  "images": [
+    {
+      "url": "https://blockonomi.com/wp-content/uploads/2026/07/Microsoft-1-scaled-3.webp",
+      "width": 2560,
+      "height": 1702,
+      "type": "webp",
+      "mime": "image/webp"
+    }
+  ]
+}
